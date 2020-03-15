@@ -8,4 +8,4 @@ Makerobos Innovation Labs is the leading technology company in India focusing on
 
 
 ### Support or Contact
-Please reach us at conatct@makerobos.com
+Please reach us at contact@makerobos.com
